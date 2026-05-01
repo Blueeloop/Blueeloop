@@ -1,3 +1,5 @@
+Data Analyst & ML Practitioner | R • Python • SQL • Power BI<br>
+Turning data into insights through analysis, modeling, and visualization
 
 ## Connect with me:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/blueeloop) 
@@ -19,7 +21,7 @@
 ---
 ![](https://komarev.com/ghpvc/?username=blueeloop&label=Profile%20Views&color=blue&style=flat)
 -->
-*⭐ If you like my work, consider giving my repos a star!*
+   *⭐ If you like my work, consider giving my repos a star!*
 
 <!-- PROFILE COUNT 
 ![](https://komarev.com/ghpvc/?username=blueeloop&label=Profile%20Views&color=0e75b6&style=flat) 

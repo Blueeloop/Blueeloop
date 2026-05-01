@@ -12,15 +12,14 @@
 ![](https://streak-stats.demolab.com/?user=blueeloop&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=blueeloop&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
-
+<!--
 ### Tech Thought:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 ![](https://komarev.com/ghpvc/?username=blueeloop&label=Profile%20Views&color=blue&style=flat)
-
-
-⭐ *If you like my work, consider giving my repos a star!*
+-->
+*⭐ If you like my work, consider giving my repos a star!*
 
 <!-- PROFILE COUNT 
 ![](https://komarev.com/ghpvc/?username=blueeloop&label=Profile%20Views&color=0e75b6&style=flat) 

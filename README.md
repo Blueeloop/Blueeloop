@@ -1,5 +1,5 @@
 Data Analyst & ML Practitioner | R • Python • SQL <br>
-Turning data into insights through analysis, modeling, and visualization.
+Interested in predictive modeling, data visualization, and end-to-end analytics workflows that turn raw data into meaningful insights.
 
 ## Connect with me:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/blueeloop) 

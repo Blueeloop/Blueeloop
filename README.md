@@ -9,6 +9,11 @@ Interested in predictive modeling, data visualization, and end-to-end analytics 
 ## Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+
+   *⭐ If you like my work, consider giving my repos a star!*
+
 <!-- # 📊 GitHub Stats:
 
  ![](https://github-readme-stats.shion.dev/api?username=blueeloop&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> 
@@ -22,7 +27,7 @@ Interested in predictive modeling, data visualization, and end-to-end analytics 
 ---
 ![](https://komarev.com/ghpvc/?username=blueeloop&label=Profile%20Views&color=blue&style=flat)
 -->
-   *⭐ If you like my work, consider giving my repos a star!*
+   
    
 <!-- PROFILE COUNT 
 ![](https://komarev.com/ghpvc/?username=blueeloop&label=Profile%20Views&color=0e75b6&style=flat) 

@@ -14,7 +14,7 @@ Interested in predictive modeling, data visualization, and end-to-end analytics 
 
 
    *⭐ If you like my work, consider giving my repos a star!*
-
+ :) 
 <!-- # 📊 GitHub Stats:
 
  ![](https://github-readme-stats.shion.dev/api?username=blueeloop&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> 
